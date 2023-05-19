@@ -1,5 +1,4 @@
-![image](https://github.com/EleoXDA/Background_Color_Changer/assets/27622683/a623f561-919a-432b-bae9-92aa697ab303)
-
+![image](https://github.com/EleoXDA/Background_Color_Changer/assets/27622683/6022a6fe-dc6a-40af-98dc-6c7b35eb8f92)
 ## Description
 This repository contains a simple interactive JavaScript application that allows users to change the webpage's background color with a single click. 
 
